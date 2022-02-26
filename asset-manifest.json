@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-QR-Component/static/css/main.7c33f8f2.css",
+    "main.js": "/FrontEndMentor-QR-Component/static/js/main.7e872fc5.js",
+    "index.html": "/FrontEndMentor-QR-Component/index.html",
+    "main.7c33f8f2.css.map": "/FrontEndMentor-QR-Component/static/css/main.7c33f8f2.css.map",
+    "main.7e872fc5.js.map": "/FrontEndMentor-QR-Component/static/js/main.7e872fc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c33f8f2.css",
+    "static/js/main.7e872fc5.js"
+  ]
+}
